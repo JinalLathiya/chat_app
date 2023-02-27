@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "678185569428",
+    "project_id": "chatapp-d85cb",
+    "storage_bucket": "chatapp-d85cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:678185569428:android:dad4351023287498ccb881",
+        "android_client_info": {
+          "package_name": "com.firebase_chat_app.fb_chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "678185569428-uirjoag5844hlab3h3jskjaj4fu5q63m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCASy7stbzQGHucXsc3ChX3bSD3h24prag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "678185569428-uirjoag5844hlab3h3jskjaj4fu5q63m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
